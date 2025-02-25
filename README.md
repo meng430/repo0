@@ -5,3 +5,4 @@
 - [EX01-03Rock-Paper-Scissors](https://github.com/meng430/repo0/blob/main/EX01_03_Rock_Paper_Scissors.ipynb)
 - [EX01-04_終極密碼](https://github.com/meng430/repo0/blob/main/EX01_04_%E7%B5%82%E6%A5%B5%E5%AF%86%E7%A2%BC.ipynb)
 - [EX01-05_Caesar Cipher: Encode and decode](https://github.com/meng430/repo0/blob/main/EX01_05_Caesar_Cipher_Encode_and_decode.ipynb)
+- [EX01-05_Caesar Cipher: Encode and decode](https://github.com/meng430/repo0/blob/main/EX01_06_%E7%B0%A1%E6%98%93%E8%B3%BC%E7%89%A9%E8%BB%8A.ipynb)
