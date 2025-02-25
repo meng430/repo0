@@ -3,3 +3,4 @@
 - [EX01-01加法器](https://github.com/meng430/repo0/blob/main/EX01_01%E5%8A%A0%E6%B3%95%E5%99%A8.ipynb)
 - [EX01-02 BMI 計算](https://github.com/meng430/repo0/blob/main/EX01_02_BMI.ipynb)
 - [EX01-03Rock-Paper-Scissors](https://github.com/meng430/repo0/blob/main/EX01_03_Rock_Paper_Scissors.ipynb)
+- [EX01-04_終極密碼]()
