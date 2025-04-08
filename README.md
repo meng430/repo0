@@ -15,3 +15,4 @@
 - [EX02_05_PTT_Gossiping](https://github.com/meng430/repo0/blob/main/EX02_05_PTT_Gossiping.ipynb)
 ## 03 Data Analysis
 - [EX03-01 公司薪資概況Ⅰ](https://github.com/meng430/repo0/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
+-[EX03-02 公司薪資概況Ⅱ](https://github.com/meng430/repo0/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
