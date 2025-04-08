@@ -13,4 +13,6 @@
 - [EX02-03 Yahoo 新聞儲存 Google 試算表](https://github.com/meng430/repo0/blob/main/EX02_03_Yahoo_%E6%96%B0%E8%81%9E%E5%84%B2%E5%AD%98_Google_%E8%A9%A6%E7%AE%97%E8%A1%A8.ipynb)
 - [EX02-04 Download Pokemon Images](https://github.com/meng430/repo0/blob/main/EX02_04_Download_Pokemon_Images.ipynb)
 - [EX02_05_PTT_Gossiping](https://github.com/meng430/repo0/blob/main/EX02_05_PTT_Gossiping.ipynb)
-- [EX02-07 KKDay](https://github.com/meng430/repo0/blob/main/EX02_07_KKDay.ipynb)
+## 03 Data Analysis
+- [EX03-01 公司薪資概況Ⅰ](https://github.com/meng430/repo0/blob/main/EX02_07_KKDay.ipynb)
+(https://github.com/meng430/repo0/blob/main/EX03_01_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A0.ipynb)
