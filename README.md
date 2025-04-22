@@ -19,3 +19,5 @@
 - [EX03-02 公司薪資概況Ⅱ](https://github.com/meng430/repo0/blob/main/EX03_02_%E5%85%AC%E5%8F%B8%E8%96%AA%E8%B3%87%E6%A6%82%E6%B3%81%E2%85%A1.ipynb)
 - [EX03-03 空氣品質指標(AQI)](https://github.com/meng430/repo0/blob/main/EX03_03_%E7%A9%BA%E6%B0%A3%E5%93%81%E8%B3%AA%E6%8C%87%E6%A8%99(AQI).ipynb)
 - [EX03-04 薪情平台](https://github.com/meng430/repo0/blob/main/EX03_04_%E8%96%AA%E6%83%85%E5%B9%B3%E5%8F%B0.ipynb)
+- []
+- [EX03-06 出生人口數](https://github.com/meng430/repo0/blob/main/EX03_06_%E5%87%BA%E7%94%9F%E4%BA%BA%E5%8F%A3%E6%95%B8.ipynb)
