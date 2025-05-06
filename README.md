@@ -24,3 +24,4 @@
 - [EX03-07 Tips](https://github.com/meng430/repo0/blob/main/EX03_07_Tips.ipynb)
 ## 05 Web API
 - [EX05_01_Echo_Bot](https://github.com/meng430/repo0/blob/main/EX05_01_Echo_Bot.ipynb)
+- [EX05_02_Ask_Gemini](https://github.com/meng430/repo0/blob/main/EX05_02_Ask_Gemini.ipynb)
