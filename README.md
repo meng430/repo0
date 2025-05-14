@@ -26,3 +26,4 @@
 - [EX05_01_Echo_Bot](https://github.com/meng430/repo0/blob/main/EX05_01_Echo_Bot.ipynb)
 - [EX05_02_Ask_Gemini](https://github.com/meng430/repo0/blob/main/EX05_02_Ask_Gemini.ipynb)
 - [EX05_03_Reply_Multi_type_Messages](https://github.com/meng430/repo0/blob/main/EX05_03_Reply_Multi_type_Messages.ipynb)
+- [EX05_04_Reply_Template_Messages](https://github.com/meng430/repo0/blob/main/EX05_04_Reply_Template_Messages.ipynb)
