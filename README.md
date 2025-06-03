@@ -28,6 +28,7 @@
 - [EX04-03 客戶分群](https://github.com/meng430/repo0/blob/main/EX04_03_%E5%AE%A2%E6%88%B6%E5%88%86%E7%BE%A4.ipynb)
 - [EX04-04 加州房價](https://github.com/meng430/repo0/blob/main/EX04_04_%E5%8A%A0%E5%B7%9E%E6%88%BF%E5%83%B9.ipynb)
 - [EX04-05 辨識鳶尾花](https://github.com/meng430/repo0/blob/main/EX04_05_%E8%BE%A8%E8%AD%98%E9%B3%B6%E5%B0%BE%E8%8A%B1.ipynb)
+- [EX04-06 ET Today 新聞標題分類](https://github.com/meng430/repo0/blob/main/EX04_06_ET_Today_%E6%96%B0%E8%81%9E%E6%A8%99%E9%A1%8C%E5%88%86%E9%A1%9E.ipynb)
 ## 05 Web API
 - [EX05_01_Echo_Bot](https://github.com/meng430/repo0/blob/main/EX05_01_Echo_Bot.ipynb)
 - [EX05_02_Ask_Gemini](https://github.com/meng430/repo0/blob/main/EX05_02_Ask_Gemini.ipynb)
